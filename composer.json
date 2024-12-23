@@ -22,7 +22,6 @@
     "require" : {
         "php" : "^7.0",
         "symfony/framework-bundle": "^3.1|^4",
-        "payum/payum-bundle": "^2.3",
         "ekyna/payum-monetico": "^1.5"
     },
     "require-dev": {
