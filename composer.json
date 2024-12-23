@@ -1,5 +1,5 @@
 {
-    "name" : "ekyna/payum-monetico-bundle",
+    "name" : "tradenart/payum-monetico-extension",
     "description" : "Symfony Bundle for Payum Monetico (Credit Mutuel/CIC) gateway",
     "type" : "bundle",
     "authors" : [
